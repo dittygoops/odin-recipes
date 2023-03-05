@@ -1,0 +1,26 @@
+body {
+    background-color: lightcoral;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    color: dimgray;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Copperplate', 'Papyrus', fantasy;
+    font-size: larger;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+}
